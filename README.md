@@ -33,6 +33,6 @@ This notebook analyzes an HR dataset to uncover key insights through various dat
 ## Running the Notebooks
 
 1. Open **Google Colab**.
-2. Upload the `.ipynb` files (01_Kelompok_B_2.ipynb and 01_Kelompok_B_3.ipynb) to Colab.
+2. Upload the `.ipynb` files (01_Kelompok_J_2.ipynb and 01_Kelompok_J_3.ipynb) to Colab.
 3. For the **01_Kelompok_B_3.ipynb** notebook, ensure the HR dataset is accessible (either via the provided URL or by uploading the dataset directly).
 
